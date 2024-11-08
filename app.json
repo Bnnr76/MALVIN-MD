@@ -13,7 +13,7 @@
   "repository": "https://github.com/kingmalvn/MALVIN-MD",
   "stack":"heroku-24",
   "env":{
-      "SESSION_ID": {
+      "SESSION_ID": {Bmwmd$8WvFAsPH
       "description": "Paste here session id that you have scanned",
       "required": true,
       "value": ""
